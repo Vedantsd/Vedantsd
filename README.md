@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnhhbjc2Nm5xMnJ5cm8zbzF5eXdueXN0Zm14ejk3amltZDd3MTVpNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/c8P0srXm9BNug/giphy.gif"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnhhbjc2Nm5xMnJ5cm8zbzF5eXdueXN0Zm14ejk3amltZDd3MTVpNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/c8P0srXm9BNug/giphy.gif" width="100%"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Vedant Desai</h1>
@@ -78,7 +78,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vedantsd&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vedantsd&theme=radical" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=Vedantsd&theme=radical" height="165"/>
 </p>
 
 ---
