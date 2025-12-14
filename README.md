@@ -77,11 +77,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vedantsd&show_icons=true&theme=radical" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=Vedantsd&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Vedantsd&show_icons=true&theme=highcontrast" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Vedantsd&theme=highcontrast&card_height=170" alt="GitHub Streak" /></a>
 </p>
 
 ---
 
 ## ✨ Fun Fact
-> “Code. Learn. Build. Repeat. 🚀”
+> “Aiming to become the most versatile programmer!”
