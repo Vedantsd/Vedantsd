@@ -1,4 +1,4 @@
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDFqcnA3NW9na3owZjJiMTFpOWx0bHk1aHNlbHB2dzhsNW56azc0ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2gSvzC8U079u3OQbg8/giphy.gif" width="100%" />
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnhhbjc2Nm5xMnJ5cm8zbzF5eXdueXN0Zm14ejk3amltZDd3MTVpNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/c8P0srXm9BNug/giphy.gif" width="100%" />
 
 # Hi, I'm Vedant Desai
 
